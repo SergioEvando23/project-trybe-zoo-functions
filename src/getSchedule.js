@@ -42,5 +42,4 @@ function getSchedule(scheduleTarget) {
 module.exports = getSchedule;
 getSchedule();
 
-
-//Função completa com a ajuda do aluno Laecio Silva turma xp - b
+// Função completa com a ajuda do aluno Laecio Silva turma xp - b
